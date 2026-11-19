@@ -1,0 +1,6 @@
+@FrontOfficeApplication_HostAddress = http://localhost:5160
+
+GET {{FrontOfficeApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
